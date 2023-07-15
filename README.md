@@ -18,6 +18,8 @@
 ## Installation:computer:
 
 I was provided a gif of what my work should look like.:arrow_down: 
+<br>
+[Day Schedule Gif](assets/Images/05-third-party-apis-homework-demo.gif)
 
 
 
@@ -46,7 +48,7 @@ Portfolio Website Link:
 
 Here are the following links I used to help write my code: 
 
-
+[Format day.js](https://day.js.org/docs/en/display/format)
 
 ## License
 
