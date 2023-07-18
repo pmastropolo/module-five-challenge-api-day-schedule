@@ -60,9 +60,9 @@ Here are the following links I used to help write my code:
 ### day.js:
 <br>
 
-[Format day.js](https://day.js.org/docs/en/display/format)
-[now](https://day.js.org/docs/en/parse/now)
-[Hour](https://day.js.org/docs/en/get-set/hour)
+- [Format day.js](https://day.js.org/docs/en/display/format)
+- [now](https://day.js.org/docs/en/parse/now)
+- [Hour](https://day.js.org/docs/en/get-set/hour)
 
 ### Bootstrap:
 <br>
