@@ -55,21 +55,21 @@ Here are the following links I used to help write my code:
 ### jsdelivr:
 <br>
 
-[cdn](https://www.jsdelivr.com/)
+- [cdn](https://www.jsdelivr.com/)
 
 ### day.js:
 <br>
 
 - [Format day.js](https://day.js.org/docs/en/display/format)
-- [now](https://day.js.org/docs/en/parse/now)
+- [Now](https://day.js.org/docs/en/parse/now)
 - [Hour](https://day.js.org/docs/en/get-set/hour)
 
 ### Bootstrap:
 <br>
 
-[Row columns gutters](https://getbootstrap.com/docs/5.1/layout/gutters/#row-columns-gutters)
-[Containers](https://getbootstrap.com/docs/5.0/layout/containers/)
-[Starter Template](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+- [Row columns gutters](https://getbootstrap.com/docs/5.1/layout/gutters/#row-columns-gutters)
+- [Containers](https://getbootstrap.com/docs/5.0/layout/containers/)
+- [Starter Template](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ![Starter Template Screenshot](<assets/Images/bootstrap starter template.jpeg>)
 
@@ -77,23 +77,23 @@ Here are the following links I used to help write my code:
 ### jQuery:
 <br>
 
-[J Query addClass](https://api.jquery.com/addclass/)
-[J Query removeClass](https://api.jquery.com/removeClass/#removeClass-className)
-[jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
-[jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
-[jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
-[Difference between $(this) and ‘this’ in jQuery](https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/#)
-[document ready](http://learn.jquery.com/using-jquery-core/document-ready/)
-[ready](https://api.jquery.com/ready/#ready-handler)
-[ready Screenshot](<assets/Images/JavaScriptScreenshot/docu ready.jpeg>)
+- [J Query addClass](https://api.jquery.com/addclass/)
+- [J Query removeClass](https://api.jquery.com/removeClass/#removeClass-className)
+- [jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
+- [jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
+- [jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
+- [Difference between $(this) and ‘this’ in jQuery](https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/#)
+- [document ready](http://learn.jquery.com/using-jquery-core/document-ready/)
+- [ready](https://api.jquery.com/ready/#ready-handler)
+- [ready Screenshot](<assets/Images/JavaScriptScreenshot/docu ready.jpeg>)
 
 ### Misc:
 <br>
 
-[this JavaScript W3Schools](https://www.w3schools.com/js/js_this.asp)
-[HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
-[HTML Data Attributes W3Schools](https://www.w3schools.com/tags/att_global_data.asp)
-[Provisional headers warning](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#provisional-headers)
+- [this JavaScript W3Schools](https://www.w3schools.com/js/js_this.asp)
+- [HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [HTML Data Attributes W3Schools](https://www.w3schools.com/tags/att_global_data.asp)
+- [Provisional headers warning](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#provisional-headers)
 
 
 
@@ -115,9 +115,9 @@ Here are the following links I used to help write my code:
 ### fonts:
 <br>
 
-[Font Awesome](https://fontawesome.com/)
-[Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
-[Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
+- [Google Fonts](https://fonts.google.com/)
 
 
 
