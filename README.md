@@ -22,7 +22,7 @@ I was provided starter code for this project. (I have added the link to that sta
 
 I was provided a gif of what my work should look like.:arrow_down: 
 <br>
-[Day Schedule Gif](assets/Images/05-third-party-apis-homework-demo.gif)
+![Day Schedule Gif](assets/Images/05-third-party-apis-homework-demo.gif)
 
 
 
@@ -35,7 +35,8 @@ I was also provided with starter code::arrow_down:
 
 
 
-
+<br>
+<br>
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
 
 Portfolio Website Link: 
@@ -51,15 +52,21 @@ Portfolio Website Link:
 
 Here are the following links I used to help write my code: 
 
-*jsdelivr:*
+### jsdelivr:
+<br>
+
 [cdn](https://www.jsdelivr.com/)
 
-*day.js:*
+### day.js:
+<br>
+
 [Format day.js](https://day.js.org/docs/en/display/format)
 [now](https://day.js.org/docs/en/parse/now)
 [Hour](https://day.js.org/docs/en/get-set/hour)
 
-*Bootstrap*
+### Bootstrap:
+<br>
+
 [Row columns gutters](https://getbootstrap.com/docs/5.1/layout/gutters/#row-columns-gutters)
 [Containers](https://getbootstrap.com/docs/5.0/layout/containers/)
 [Starter Template](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
@@ -67,7 +74,8 @@ Here are the following links I used to help write my code:
 ![Starter Template Screenshot](<assets/Images/bootstrap starter template.jpeg>)
 
 
-*jQuery:*
+### jQuery:
+<br>
 
 [J Query addClass](https://api.jquery.com/addclass/)
 [J Query removeClass](https://api.jquery.com/removeClass/#removeClass-className)
@@ -79,7 +87,8 @@ Here are the following links I used to help write my code:
 [ready](https://api.jquery.com/ready/#ready-handler)
 [ready Screenshot](<assets/Images/JavaScriptScreenshot/docu ready.jpeg>)
 
-*misc:*
+### Misc:
+<br>
 
 [this JavaScript W3Schools](https://www.w3schools.com/js/js_this.asp)
 [HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
@@ -103,7 +112,9 @@ Here are the following links I used to help write my code:
 ![jQuery Event Notes](assets/Images/JavaScriptScreenshot/jqueryeventsnotes.jpg)
 
 
-*fonts*
+### fonts:
+<br>
+
 [Font Awesome](https://fontawesome.com/)
 [Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
 [Google Fonts](https://fonts.google.com/)
