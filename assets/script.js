@@ -27,7 +27,7 @@ $(document).ready(function() {
     });
   }
 
-   tickTockOnTheClock();                               // function display current day and time in p id 
+  tickTockOnTheClock();                               // function display current day and time in p id 
   setInterval(tickTockOnTheClock, 1000);              // update every second! 
 
   updateTimeBlocks();                                 // function update classes in timeblock depending on current time 
