@@ -38,13 +38,13 @@ I was also provided with starter code::arrow_down:
 <br>
 <br>
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
-<br>
+
 Portfolio Website Link: 
 
 ## Usage :open_file_folder:
 
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
-<br>
+
 Portfolio Website Link: 
 
 
