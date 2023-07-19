@@ -79,6 +79,7 @@ Here are the following links I used to help write my code:
 
 - [jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 - [jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
+- [Add class](https://www.w3schools.com/jquery/html_addclass.asp)
 - [jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
 - [Difference between $(this) and ‘this’ in jQuery](https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/#)
 - [document ready](http://learn.jquery.com/using-jquery-core/document-ready/)
