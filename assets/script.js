@@ -32,4 +32,17 @@ $(document).ready(function() {
 
   updateTimeBlocks();                                 // function update classes in timeblock depending on current time 
   setInterval(updateTimeBlocks, 60000);               // update every minute!                  
-  
+
+// reset button when igot my sched working, i noticed that there were just a lot of things listed and i wanted to add a way for the user to easily
+// remove everything pretty quickly, so adding the reset button seemed like a pretty good solution! Should get presented with box, Are you sure you want to clear sched? 
+// wanted to add this just in case the user had pressed the button by accdient, so kind of like a safety default, im pretty sure when we clear local storage
+// it is going to git rid of EVERYTHING that was stored in local, so def wanted to add that box 
+  resetBtn.on('click', function() { // reset button function, with click event
+    if (confirm('Are you sure you want to CLEAR schedule? Press OK to clear.')) {
+      localStorage.clear();               // clear from local storage 
+      descriptionInputs.val('');          // what user enetered 
+    }
+  });
+
+  loadUsersSched();   // part of the project was to make sure whatever user put in would stay so if you refresh the page, whatever was typed in should still be there 
+});
