@@ -31,7 +31,14 @@ $(document).ready(function() {
   setInterval(tickTockOnTheClock, 1000);              // update every second! 
 
   updateTimeBlocks();                                 // function update classes in timeblock depending on current time 
-  setInterval(updateTimeBlocks, 60000);               // update every minute!                  
+  setInterval(updateTimeBlocks, 60000);               // update every minute!   
+
+  // save button function with click event, when user enters text and THEN presses save button, everything should save to local storage 
+  saveBtns.on('click', function() {           // this will refer to savebtn so when user clicks save button everything should save to local storage 
+    var scheduleText = $(this).siblings('.description').val();    // description text: value will be everything the user typed 
+    var scheduleTime = $(this).siblings('.description').data('time');   // description time: gets value of data time with sibling elements for class description 
+    localStorage.setItem(scheduleTime, scheduleText);           // will put time and text in local storage to save 
+  });
 
 // reset button when igot my sched working, i noticed that there were just a lot of things listed and i wanted to add a way for the user to easily
 // remove everything pretty quickly, so adding the reset button seemed like a pretty good solution! Should get presented with box, Are you sure you want to clear sched? 
