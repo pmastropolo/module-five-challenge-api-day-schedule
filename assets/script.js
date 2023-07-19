@@ -26,7 +26,18 @@ $(document).ready(function() {
       }
     });
   }
+// needed a function to get saved items from local storage 
+  function loadUsersSched() {
+    descriptionInputs.each(function() {       // goes over EACH element 
+      var scheduleTime = $(this).data('time');    // this = current textarea element // value of datatime in current textarea  
+      var userSavedActivity = localStorage.getItem(scheduleTime);   // gets value stored in local storage 
 
+      if (userSavedActivity) {                // if statement to see if any saved activitys 
+        $(this).val(userSavedActivity);     // this = current text area , val gets the value , 
+      }                                     // so basically should getthe value and text that user entered that waywhen user refresh page it should still be there 
+    });
+  }
+                  
   tickTockOnTheClock();                               // function display current day and time in p id 
   setInterval(tickTockOnTheClock, 1000);              // update every second! 
 
