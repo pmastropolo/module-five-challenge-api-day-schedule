@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-                             <!-- Bootstrap  --> 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-                              <!-- FontAwesome --> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css" integrity="sha512-gMjQeDaELJ0ryCI+FtItusU9MkAifCZcGq789FrzkiM49D8lbDhoaUaIX4ASU187wofMNlgBJ4ckbrXM9sE6Pg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
 
-                              <!-- Googlefonts  --> 
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap">
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.1/css/all.min.css"
+    integrity="sha512-gMjQeDaELJ0ryCI+FtItusU9MkAifCZcGq789FrzkiM49D8lbDhoaUaIX4ASU187wofMNlgBJ4ckbrXM9sE6Pg=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet">
+  <!-- Googlefonts -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&display=swap" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bitter&display=swap" rel="stylesheet" />
      
 
     <link rel="stylesheet" href="assets\style.css" />
@@ -32,16 +35,10 @@
             <p id="currentDay" class="lead" style="font-family: 'Bitter', serif;"></p>
 
       </header>
-                                    <!-- Updated Previous HTML:
-                                        The set up I have now is easier
-                                        for me to figure out than the verison before 
-                                        Added data time & removed ids from numbers in beginning
-                                        
-                                    --> 
-              
+                              
     <div class="container-fluid px-5">
   
-      <div class="row time-block">              <!-- Hour 9 -->
+      <div class="row time-block past">              <!-- Hour 9 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>9 AM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 09:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -50,7 +47,7 @@
       </div>
 
 
-      <div class="row time-block">                    <!-- Hour 10 -->
+      <div class="row time-block present">                    <!-- Hour 10 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>10 AM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 10:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -58,7 +55,7 @@
           </button>
       </div>
 
-      <div class="row time-block">                <!-- Hour 11 -->
+      <div class="row time-block future">                <!-- Hour 11 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>11 AM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 11:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -66,7 +63,7 @@
           </button>
       </div>
 
-      <div class="row time-block">              <!-- Hour 12 -->
+      <div class="row time-block future">              <!-- Hour 12 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>12 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 12:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -74,7 +71,7 @@
           </button>
       </div>
 
-      <div class="row time-block">                  <!-- Hour 1 -->
+      <div class="row time-block future">                  <!-- Hour 1 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>1 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 13:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -82,7 +79,7 @@
           </button>
       </div>
 
-      <div class="row time-block">                <!-- Hour 2 -->
+      <div class="row time-block future">                <!-- Hour 2 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>2 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 14:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -90,7 +87,7 @@
           </button>
       </div>
 
-      <div class="row time-block">                <!-- Hour 3 -->
+      <div class="row time-block future">                <!-- Hour 3 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>3 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 15:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -98,7 +95,7 @@
           </button>
       </div>
 
-      <div class="row time-block">              <!-- Hour 4 -->
+      <div class="row time-block future">              <!-- Hour 4 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>4 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 16:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -106,7 +103,7 @@
           </button>
       </div>
 
-      <div class="row time-block">              <!-- Hour 5 -->
+      <div class="row time-block future">              <!-- Hour 5 -->
         <div class="col-2 col-md-1 hour text-center py-3"><b>5 PM</b></div>
         <textarea class="col-10 description" data-time="2023-07-18 17:00"></textarea>
         <button class="btn saveBtn col-2 col-md-1" aria-label="save">
@@ -116,17 +113,19 @@
 
       <button id="resetBtn" class="btn btn-danger" title="Click to reset the schedule">Clear Schedule? &#128465;</button>
 
-      </div>
+      
+  <!-- jQuery -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
+  <!-- dayjs -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.3/dayjs.min.js"
+    integrity="sha512-Ot7ArUEhJDU0cwoBNNnWe487kjL5wAOsIYig8llY/l0P2TUFwgsAHVmrZMHsT8NGo+HwkjTJsNErS6QqIkBxDw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-                            <!-- jQuery -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-                            <!-- dayjs / when I added this verison code worked better -->
-<script src="https://cdn.jsdelivr.net/npm/dayjs@1.10.4/dayjs.min.js"></script>
-                            <!-- dayjs -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.3/dayjs.min.js" integrity="sha512-Ot7ArUEhJDU0cwoBNNnWe487kjL5wAOsIYig8llY/l0P2TUFwgsAHVmrZMHsT8NGo+HwkjTJsNErS6QqIkBxDw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-                            <!-- bootstrap -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <!-- Bootstrap -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
 
 <script src="assets\script.js"></script>
