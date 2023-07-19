@@ -38,13 +38,13 @@ I was also provided with starter code::arrow_down:
 <br>
 <br>
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
-
+<br>
 Portfolio Website Link: 
 
 ## Usage :open_file_folder:
 
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
-
+<br>
 Portfolio Website Link: 
 
 
@@ -77,8 +77,6 @@ Here are the following links I used to help write my code:
 ### jQuery:
 <br>
 
-- [J Query addClass](https://api.jquery.com/addclass/)
-- [J Query removeClass](https://api.jquery.com/removeClass/#removeClass-className)
 - [jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 - [jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
 - [jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
