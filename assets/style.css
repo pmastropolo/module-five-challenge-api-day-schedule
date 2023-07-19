@@ -2,7 +2,9 @@ body {
         font-family: 'Open Sans', sans-serif;
         font-size: 16px;
       }
-
+      
+      /* textarea and description are together*/
+      
       textarea {
         background: transparent;
         border: none;
@@ -17,8 +19,10 @@ body {
         
         }
       
+
       /* Used Text-Align to Center our h1 header & p paragraph 
          To match the mockup better! */
+
       h1 {
         text-align: center;
       }
@@ -27,7 +31,8 @@ body {
         text-align: center;
       }
 
-     /*time-block and row are together*/  
+     /*time-block and row are together*/ 
+      
       .time-block {
         border-radius: 15px;
       }
@@ -37,17 +42,21 @@ body {
       }
 
       /* Hour */
+      
       .hour {
         background-color: #ffffff;
         color: #000000;
         border-top: 1px dashed #000000;
       }
       
+
       /* 
       Noted Colors Presented For All Past, Present, & Future 
+
       - Past Time / Grey
       - Present Time / Red
       - Future Time / Green
+      
       */
 
       .time-block.past {
@@ -65,7 +74,14 @@ body {
         color: rgb(8, 4, 4);
       }
       
-      /* Save Button*/
+      /* Save Button
+      - Added Cursor Pointer
+      - Removed  transition: all 0.3s ease-in-out;
+      - Reason for removal, was making icon button 
+        act weird, not user friendly
+
+       */
+
       .saveBtn {
         border-left: 1px solid black;
         border-top-right-radius: 15px;
@@ -76,10 +92,14 @@ body {
       }
       
       .saveBtn i:hover {
-        font-size: 20px; 
+        font-size: 20px;
+       
 }
 
-/* Added reset button */
+/* 
+Added reset button
+*/
+
 #resetBtn {
   margin-top: 50px;
   cursor: pointer;
