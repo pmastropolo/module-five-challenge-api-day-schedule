@@ -17,7 +17,6 @@ body {
         
         }
       
-
       /* Used Text-Align to Center our h1 header & p paragraph 
          To match the mockup better! */
       h1 {
@@ -66,12 +65,7 @@ body {
         color: rgb(8, 4, 4);
       }
       
-      /* Save Button
-      - Added Cursor Pointer
-      - Removed  transition: all 0.3s ease-in-out;
-      - Reason for removal, was making icon button 
-        act weird, not user friendly */
-
+      /* Save Button*/
       .saveBtn {
         border-left: 1px solid black;
         border-top-right-radius: 15px;
@@ -82,8 +76,7 @@ body {
       }
       
       .saveBtn i:hover {
-        font-size: 20px;
-       
+        font-size: 20px; 
 }
 
 /* Added reset button */
