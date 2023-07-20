@@ -3,7 +3,7 @@
 
 ## Description
 
-A work day planner that allows a user to create a schedule. When user opens the planner, then the current day is displayed at the top of calendar. When user scrolls down, planner should show hours 9AM - 5PM. Each time block is color-coded to indicate whether it is in the past, present, or future. Past Time should be in the color grey, Present Time should be in the color Red, & Future Time should be in the color green. When user clicks into a time block, user should be able to enter an event & click the save button for that time block. Text should be saved into local storage, & when user refreshes the page, then the saved events persist. I have added a reset button to the bottom so user can clear everything, but in doing so, willclear everything from local storage. 
+A work day planner that allows a user to create a schedule. When user opens the planner, then the current day is displayed at the top of calendar. Real Date with Real Time. When user scrolls down, planner should show hours 9AM - 5PM. Each time block is color-coded to indicate whether it is in the past, present, or future. Past Time should be in the color grey, Present Time should be in the color Red, & Future Time should be in the color green. When user clicks into a time block, user should be able to enter an event & click the save button for that time block. Text should be saved into local storage, & when user refreshes the page, then the saved events persist. I have added a reset button to the bottom so user can clear everything, but in doing so, will clear everything from local storage. 
 
 I was provided starter code for this project. (I have added the link to that starter code down below) I have added my own JavaScript code featuring jQuery & day.js. Bootstrap, Google Fonts, Fonts Awesome were already in file for styling. 
 
@@ -39,13 +39,13 @@ I was also provided with starter code::arrow_down:
 <br>
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
 
-Portfolio Website Link: 
+Portfolio Website Link: https://pmastropolo.github.io/module-five-challenge-api-day-schedule/
 
 ## Usage :open_file_folder:
 
 Github link: https://github.com/pmastropolo/module-five-challenge-api-day-schedule
 
-Portfolio Website Link: 
+Portfolio Website Link: https://pmastropolo.github.io/module-five-challenge-api-day-schedule/
 
 
 ## Credits
@@ -88,6 +88,7 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 - [ready](https://api.jquery.com/ready/#ready-handler)
 
 
+
 ### Misc:
 <br>
 
@@ -106,7 +107,7 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 
 -->
 
-*Hand-written Notes:* 
+### Hand-Written Notes:
 <br>
 
 ![jQuery Syntax Personal Notes](assets/Images/JavaScriptScreenshot/jquerynotespartone.jpg)
@@ -114,13 +115,20 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 ![jQuery Event Notes](assets/Images/JavaScriptScreenshot/jqueryeventsnotes.jpg)
 
 
-### fonts:
+### Fonts:
 <br>
 
 - [Font Awesome](https://fontawesome.com/)
 - [Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
 - [Google Fonts](https://fonts.google.com/)
 
+### More Screenshot Examples:
+
+- ![attr](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/8cbfcb02-0f66-4735-bb4a-758b380b836f)
+- ![data](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/bbaaf206-5b35-418b-9a8d-4fa998aeeb19)
+- ![docu ready](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/57e572ff-aa8a-4cd0-b740-4bae5773bbeb)
+- ![set contenttt](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/ffec57b1-78cf-4dff-9852-2e3f06a60675)
+- ![sibilings method](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/040d5192-bd86-40e8-8360-826220a1ed09)
 
 
 
