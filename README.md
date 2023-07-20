@@ -72,8 +72,6 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 - [Containers](https://getbootstrap.com/docs/5.0/layout/containers/)
 - [Starter Template](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
-![Starter Template Screenshot](<assets/Images/bootstrap starter template.jpeg>)
-
 
 ### jQuery:
 <br>
@@ -129,6 +127,7 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 - ![docu ready](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/57e572ff-aa8a-4cd0-b740-4bae5773bbeb)
 - ![set contenttt](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/ffec57b1-78cf-4dff-9852-2e3f06a60675)
 - ![sibilings method](https://github.com/pmastropolo/module-five-challenge-api-day-schedule/assets/135174286/040d5192-bd86-40e8-8360-826220a1ed09)
+- ![Starter Template Screenshot](<assets/Images/bootstrap starter template.jpeg>)
 
 
 
