@@ -98,6 +98,13 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 - [HTML Data Attributes W3Schools](https://www.w3schools.com/tags/att_global_data.asp)
 - [Provisional headers warning](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#provisional-headers)
 
+### Fonts:
+<br>
+
+- [Font Awesome](https://fontawesome.com/)
+- [Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
+- [Google Fonts](https://fonts.google.com/)
+
 
 
 <!--- Unsure If I Can Add School Notes So Will Comment This Out For Now
@@ -114,13 +121,6 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 ![jQuery Selector Notes](assets/Images/JavaScriptScreenshot/jquerynotesselectors.jpg)
 ![jQuery Event Notes](assets/Images/JavaScriptScreenshot/jqueryeventsnotes.jpg)
 
-
-### Fonts:
-<br>
-
-- [Font Awesome](https://fontawesome.com/)
-- [Font Awesome Different Icons](https://fontawesome.com/v5/icons/save?f=classic&s=light&sz=lg&pc=%231b9dee)
-- [Google Fonts](https://fonts.google.com/)
 
 ### More Screenshot Examples:
 
