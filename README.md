@@ -51,6 +51,7 @@ Portfolio Website Link:
 ## Credits
 
 Here are the following links I used to help write my code: 
+I did reference back to a lot of our homework, but didn't want to upload a ton of screenshots of our homework for this class since this is a public repo 
 
 ### jsdelivr:
 <br>
@@ -80,6 +81,7 @@ Here are the following links I used to help write my code:
 - [jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 - [jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
 - [Add class](https://www.w3schools.com/jquery/html_addclass.asp)
+- [When to use this?](https://teamtreehouse.com/community/when-to-use-this-in-jquery)
 - [jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
 - [Difference between $(this) and ‘this’ in jQuery](https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/#)
 - [document ready](http://learn.jquery.com/using-jquery-core/document-ready/)
@@ -91,6 +93,7 @@ Here are the following links I used to help write my code:
 
 - [this JavaScript W3Schools](https://www.w3schools.com/js/js_this.asp)
 - [HTML Input Types](https://www.w3schools.com/html/html_form_input_types.asp)
+- [this mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 - [HTML Data Attributes W3Schools](https://www.w3schools.com/tags/att_global_data.asp)
 - [Provisional headers warning](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#provisional-headers)
 
