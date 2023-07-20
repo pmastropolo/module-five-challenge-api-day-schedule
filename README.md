@@ -78,7 +78,10 @@ I did reference back to a lot of our homework, but didn't want to upload a ton o
 
 - [jQuery Examples W3Schools](https://www.w3schools.com/jquery/jquery_examples.asp)
 - [jQuery Misc Methods](https://www.w3schools.com/jquery/jquery_ref_misc.asp)
+- [Events](https://api.jquery.com/category/events/)
+- [Category Traversing](https://api.jquery.com/category/traversing/)
 - [Add class](https://www.w3schools.com/jquery/html_addclass.asp)
+- [UI demos](https://jqueryui.com/demos/)
 - [When to use this?](https://teamtreehouse.com/community/when-to-use-this-in-jquery)
 - [jQuery HTML/CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
 - [Difference between $(this) and ‘this’ in jQuery](https://www.geeksforgeeks.org/difference-between-this-and-this-in-jquery/#)
